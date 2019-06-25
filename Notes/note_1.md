@@ -4,7 +4,7 @@
 * Sàng Nguyên Tố
 * Tổ hợp các số tạo ra từ tích của các thừa số nguyên tố p1, p2, p3, ... , pk
 * Số lượng các số (chia hết / không chia hêt) cho bất kì các số nguyên tố p1, p2, p3, ... , pk
-* [Dạng Tổng Quát: Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d](./Notes/note_2.md)
+* [Dạng Tổng Quát: Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d](./note_2.md)
 
 ## Ý Tưởng
 * Các số từ 1 -> n không có thừa số nguyên tố từ 2 -> 10
