@@ -14,4 +14,4 @@
 
 `[6]` [*Sàng Nguyên Tố*](./Notes/note_6.md)
 
-`[7]` [*Kĩ Thuật Bảng Lưu*](./Notes/note_.md)
+`[7]` [*Kĩ Thuật Bảng Lưu*](./Notes/note_7.md)
