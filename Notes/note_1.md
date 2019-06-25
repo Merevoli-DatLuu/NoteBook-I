@@ -34,8 +34,8 @@ cout << res;
 * Độ phức tạp cao
 
 ### Cách 2 ( Tính Phần Bù ):
--*Tìm số lượng không chia hết cho các thừa số nguyên tố (2->10) có thể khó tìm công thức. Nhưng tìm các số chia hết cho các thừa số nguyên tố (2->10) lại khá dễ*
--Áp dụng tính chất của các tập hợp: 
+- *Tìm số lượng không chia hết cho các thừa số nguyên tố (2->10) có thể khó tìm công thức. Nhưng tìm các số chia hết cho các thừa số nguyên tố (2->10) lại khá dễ* 
+- Áp dụng tính chất của các tập hợp: 
 A ∪ B ∪ C = (A + B + C) - (A∩B + A∩C + B∩C) + (A∩B∩C)
 và **Dạng Tổng Quát**
 
