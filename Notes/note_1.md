@@ -75,5 +75,42 @@ cout << res;
 **Khuyết Điểm**
 * Tìm tổ hợp các thừa số nguyên tố ( Số lượng tổ hợp: 2^k - 1 | k: số thừa số nguyên tố 
 
+
+### Cách 3 ( Dùng Mảng Đánh Dấu ):
+* Giải thuật tương tự như Sàng nguyên tố Eratosthenes
+* Duyệt đến phần tử nguyên tố nào thì đánh dấu nguyên tố đó và bội của nó (Do đánh dấu nên dù có lặp cũng chỉ tính là 1, không cần trừ như *Cách 2*)
+```C++
+// pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ 1->n
+// Time: O(sum(N/p1 + N/p2 + ...+ N/pk)) 
+// Space: O(k)
+```
+
+```C++
+int res = 0;
+vector <int> Primes;
+bool Sieve[maxc];
+memset(Sieve, true, sizeof(Sieve));
+Primes.push_back(2);
+Primes.push_back(3);
+Primes.push_back(5);
+Primes.push_back(7);
+for (int i=0; i<Primes.size(); i++){
+	for (int j=Primes[i]; j<=n; j+=Primes[i]){
+		Sieve[j] = false;
+	}	
+}
+for (int i=1; i<=n; i++){
+	if (Sieve[i]){
+		res++;
+	}
+}
+cout << res;
+```
+**Ưu Điểm**
+* Độ phức tạp tốt ( nên sử dụng khi số lượng số nguyên tố nhiều )
+
+**Khuyết Điểm**
+* Với khoảng số nguyên tố nhỏ hoặc N lớn thì bất lợi hơn *Cách 2*
+
 ## Ghi Chú
 **Số lượng các số từ a -> b (chia hết / không chia hêt) cho bất kì các số nguyên tố p1, p2, p3, ... , pk**
