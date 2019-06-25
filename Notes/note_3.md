@@ -1,8 +1,8 @@
 # Số lượng các số từ a -> b (chia hết / không chia hêt) cho bất kì các số nguyên tố p1, p2, p3, ... , pk
 
 ## Liên Hệ
-* Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10
-* Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d
+* [Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10](./note_1.md)
+* [Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d](./note_2.md)
 
 ## Giải Quyết Vấn Đề
 * Áp dụng tính chất của các tập hợp: A ∪ B ∪ C = (A + B + C) - (A∩B + A∩C + B∩C) + (A∩B∩C) và Dạng Tổng Quát
