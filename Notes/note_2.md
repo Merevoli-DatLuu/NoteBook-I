@@ -8,7 +8,7 @@ Tiếp nối của cách 2 (#1)
 
 ## Giải Quyết Vấn Đề
 
-###Cách 2 (#1)
+### Cách 2 (#1)
 ```C++
 // Time: O(1)
 // Space: O(1)
@@ -39,9 +39,9 @@ ull res = n - d2_3_5_7;
 cout << res;
 ```
 
-###Các Bước Giải Quyết
+### Các Bước Giải Quyết
 
-```python
+```
 [1] Tìm các số nguyên tố từ c -> d
 [2] Tìm tổ hợp từ các số nguyên tố vừa tìm
 [3] Tìm số lượng số phần tử của mỗi tổ hợp từ (1->a, 1->b)
