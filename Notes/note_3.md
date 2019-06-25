@@ -89,4 +89,4 @@ int res = res1 - res2
 ```
 
 ## Chú Thích
-**Số có tính chất (chia hết/ không chia hết) bất kì cho tập các số (p1, p2, p3,...pk)**
+**Số có tính chất (chia hết/ không chia hết) bất kì cho tập các số (a1, a2, a3,...ak)**
