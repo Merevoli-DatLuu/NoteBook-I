@@ -63,7 +63,7 @@ cout << res;
 * Tổng quát hóa *Cách 3* dễ dàng hơn *Cách 2*
 
 ```C++
-// pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ 1->n
+// pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ c->d
 // Time: O(sum(b/p1 + b/p2 + ...+ b/pk)) 
 // Space: O(k)
 ```
