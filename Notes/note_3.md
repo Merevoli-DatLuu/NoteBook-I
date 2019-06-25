@@ -9,6 +9,7 @@
 ### Tính Phần Bù
 * Áp dụng tính chất của các tập hợp: A ∪ B ∪ C = (A + B + C) - (A∩B + A∩C + B∩C) + (A∩B∩C) và Dạng Tổng Quát
 * **Ví Dụ**: tìm các số từ 10 -> 100 chia hết cho bất kì 5, 7, 19. 
+* **Time: O(2^k)**
 
 ```
 1) [5] ∪ [7] ∪ [19] = ([5] + [7] + [9]) - ([5, 7] + [5, 19] + [7, 19]) + ([5, 7, 19])
@@ -92,6 +93,7 @@ int res = res1 - res2
 
 ### Dùng Mảng Đánh Dấu
 * Giải Thuật Tương Từ Sàng Nguyên Tố Eratosthenes 
+* **Time: O(sum(b/p1 + b/p2 + ...+ b/pk))**
 
 ```C++
 // pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ c->d
