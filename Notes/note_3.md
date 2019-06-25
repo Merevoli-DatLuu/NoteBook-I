@@ -5,6 +5,8 @@
 * [Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d](./note_2.md)
 
 ## Giải Quyết Vấn Đề
+
+### Tính Phần Bù
 * Áp dụng tính chất của các tập hợp: A ∪ B ∪ C = (A + B + C) - (A∩B + A∩C + B∩C) + (A∩B∩C) và Dạng Tổng Quát
 * **Ví Dụ**: tìm các số từ 10 -> 100 chia hết cho bất kì 5, 7, 19. 
 
@@ -86,6 +88,34 @@ int res2 = (dp1 + dp2 + dp3 + ...+ dpk) - (dp1p2 + dp1p3 + dp1p4 + ...+dpk_1pk) 
 
 // Từ a -> b
 int res = res1 - res2
+```
+
+### Dùng Mảng Đánh Dấu
+* Giải Thuật Tương Từ Sàng Nguyên Tố Eratosthenes 
+
+```C++
+// pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ c->d
+// Time: O(sum(b/p1 + b/p2 + ...+ b/pk)) 
+// Space: O(k)
+```
+
+```C++
+int res = 0;
+vector <int> Primes;
+// Tìm Các số nguyên tố từ c->d => Primes
+bool Sieve[maxc];
+memset(Sieve, true, sizeof(Sieve));
+for (int i=0; i<Primes.size(); i++){
+	for (int j=Primes[i]; j<=b; j+=Primes[i]){
+		Sieve[j] = false;
+	}	
+}
+for (int i=a; i<=b; i++){
+	if (Sieve[i]){
+		res++;
+	}
+}
+cout << res;
 ```
 
 ## Chú Thích
