@@ -1,7 +1,7 @@
 # Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d
 ## Liên  Hệ
 * Sàng Nguyên Tố
-* [Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10](./Notes/note_1.md)
+* [Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10](./note_1.md)
 
 ## Ý Tưởng
 Tiếp nối của cách 2 (#1)
