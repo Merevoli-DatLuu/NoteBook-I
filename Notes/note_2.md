@@ -1,7 +1,7 @@
 # Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d
 ## Liên  Hệ
 * Sàng Nguyên Tố
-* [Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10](https://kipalog.com/posts/1-So-Luong-So-Tu-1----n-Khong-Chia-Het-Cho-Bat-Ky-So-Nao-Tu-2----10)
+* [Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10](./Notes/note_1.md)
 
 ## Ý Tưởng
 Tiếp nối của cách 2 (#1)
