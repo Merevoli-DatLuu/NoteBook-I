@@ -39,7 +39,7 @@ ull res = n - d2_3_5_7;
 cout << res;
 ```
 
-### Các Bước Giải Quyết
+#### Các Bước Giải Quyết
 
 ```
 [1] Tìm các số nguyên tố từ c -> d
@@ -49,7 +49,7 @@ cout << res;
 [5] Tính phần bù ( Kết Quả )
 ```
 
-### Độ Phức Tạp
+#### Độ Phức Tạp
 ```python
 [1] O(d*loglog(d)) (Sàng Eratosthenes), O(d) (Sàng Atkin)
 [2] O(2^k) (s: số lượng số nguyên tố)
@@ -58,3 +58,41 @@ cout << res;
 [5] O(1)
 => O(2^k)
 ```
+
+### Cách 3 (#1)
+* Tổng quát hóa *Cách 3* dễ dàng hơn *Cách 2*
+
+```C++
+// pi là số nguyên tố thứ i, k: số lượng số nguyên tố từ 1->n
+// Time: O(sum(b/p1 + b/p2 + ...+ b/pk)) 
+// Space: O(k)
+```
+
+```C++
+int res = 0;
+vector <int> Primes;
+// Tìm Các số nguyên tố từ c->d => Primes
+bool Sieve[maxc];
+memset(Sieve, true, sizeof(Sieve));
+for (int i=0; i<Primes.size(); i++){
+	for (int j=Primes[i]; j<=b; j+=Primes[i]){
+		Sieve[j] = false;
+	}	
+}
+for (int i=a; i<=b; i++){
+	if (Sieve[i]){
+		res++;
+	}
+}
+cout << res;
+```
+
+## So Sánh *Cách 2* và *Cách 3*
+
+* *Cách 2*: O(2^k)
+* *Cách 3*: O(sum(b/p1 + b/p2 + ...+ b/pk))
+
+* Khuyết điểm chết người ở *Cách 2* là tìm **Tổ Hợp** của các thừa số nguyên tố (*O(2^k))* 
+* Khuyết điểm của cách 3 là a->b lớn thì không hiệu quả lắm. Nhưng tổng thể thì *Cách 3* ổn định hơn các 2
+* Với c->d nhỏ hoặc được xác định thì nên dùng cách 2
+
