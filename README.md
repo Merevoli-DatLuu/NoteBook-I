@@ -15,3 +15,5 @@
 `[6]` [*Sàng Nguyên Tố*](./Notes/note_6.md)
 
 `[7]` [*Kĩ Thuật Bảng Lưu*](./Notes/note_7.md)
+
+`[8]` [*Dãy Con Chung Lớn Nhất và Ứng Dụng (Tập Các Đoạn Giao Lớn Nhất)*](./Notes/note_8.md)
