@@ -122,7 +122,7 @@ Cấp 3
 ### Điều Thứ 2
 * Nói xong về sách rồi giờ nói đến OJ (Online Judge) là các trang làm bài online.
 * Đối với các này thì **cày càng nhiều càng tốt** (tất nhiên tổng hợp kiến thức thu được sau mội bài nữa nha).
-* Mới đầu thì nên bắt đầu bằng **Upcoder** (OJ này của ĐH sư phạm TP.HCM) khoảng 1, 2 tuần rồi làm thêm** VNOI/Spoj** (Vnoi là Spoj dịch sang tiếng viết và có solution hầu hết các bài). Thấy mình ok thì thêm **Coreforce** hay **Topcoder**. Rảnh thì làm thêm **UVa**, **LintCode**, **LeetCode** (3 Cái có solutions gần hết - ghi ở trên).
+* Mới đầu thì nên bắt đầu bằng **Upcoder** (OJ này của ĐH sư phạm TP.HCM) khoảng 1, 2 tuần rồi làm thêm **VNOI/Spoj** (Vnoi là Spoj dịch sang tiếng viết và có solution hầu hết các bài). Thấy mình ok thì thêm **Coreforce** hay **Topcoder**. Rảnh thì làm thêm **UVa**, **LintCode**, **LeetCode** (3 Cái có solutions gần hết - ghi ở trên).
 * Nhớ là làm OJ kết hợp với thi **contest** luôn nha.
 * có trang **free contest**, **VEC** (mới) của Việt Nam. Không thì vô **Spoj** hay **Codeforce** thi contest vừa làm quen với kì thi vừa có thêm kiến thức.
 
