@@ -71,7 +71,7 @@ Phải Đọc:
 	+ Giải Thuật và Lập Trình - Lê Minh Hoàng # Cuốn Này Kinh Điển
 	+ 3 Cuốn sách Giáo Khoa Chuyên Tin - Lê Minh Hoàng # Cuốn này giống cuốn trên những dễ hiểu hơn
 	+ 3 Cuốn Sáng Tạo Trong Thuật Toán và Lập Trình - Nguyên Xuân Huy # Cuốn này có những kĩ thuật hay
-	+ Cẩm Nang Thuật Toán (Cuốn này khá quan trọng)
+	+ Cẩm Nang Thuật Toán #Cuốn này khá quan trọng
 	+ Đồ Thị Và Các Thuật Toán - Nguyễn chí Thành 
 	+ Thuật Toán Nâng Cao - Nguyễn Thanh Bình # Cuốn này đọc vui thôi, cơ bản vl
 	+ Toán Học và Tin Học # Cuốn này thì có những kiến thức hay về math
