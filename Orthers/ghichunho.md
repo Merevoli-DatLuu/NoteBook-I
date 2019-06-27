@@ -95,7 +95,7 @@ Tham Khảo Chính:
 	+  Toán Rời Rạc Trong Tin Học
 
 Tham Khảo Phụ:
-	+ The Art Of Computer Programming # Học xong cuốn 4 này là master 
+	+ The Art Of Computer Programming # Học xong cuốn 4 này là master cmnr
 
 Bài Tập:
 	+ 150 bài toán tin
