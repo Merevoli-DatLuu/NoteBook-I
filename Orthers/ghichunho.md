@@ -48,6 +48,8 @@ DatLuu 28-06-2019
 		* [UTSA](http://www.cs.utsa.edu/~wagner/coursest.html#CS3723) (Này có nhiều kĩ thuật hay)
 		* [SAN](https://www.sanfoundry.com/) (Trang có rất nhiều cái hay: STL C++, Data Structure, Example code của nhiều bài toán)
 		
+* [Khung Kiến Thức Cần ACM ICPC Trung Quốc](./ACMTQ.txt) (cân nhắc trước khi xem)
+		
 ## Lộ Trình Học
 // Tất cả điều dưới là quan điểm và ý kiến của riêng mình (chỉ recommened chứ không áp đặt nhá:smile: )
 
