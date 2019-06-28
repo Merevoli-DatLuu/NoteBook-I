@@ -1,0 +1,267 @@
+Khung kiến thức cần cho IOI và ACM ICPC bắt buộc bất thành văn của tuyển Trung Quốc 
+
+1) Ngăn xếp, hàng đợi, danh sách liên kết
+2) Bảng băm, mảng băm
+3) Heap, hàng đợi ưu tiên
+4) Hàng đợi kết thúc
+5) Tương thích
+6) Heap một phần
+7) Cây tìm kiếm nhị phân
+8) Treap
+9) Cây duỗi
+10) Và kiểm tra
+11) Đặt vấn đề đếm
+12) Nhận dạng đồ thị lưỡng cực
+13) Cây nhị phân cân bằng
+14) Cây phân loại nhị phân
+15) Cây phân khúc
+16) Cây phân đoạn một chiều
+17) Cây phân khúc hai chiều
+18) Mảng cây
+19) Mảng cây một chiều
+20) Mảng cây N chiều
+21) Cây từ điển
+22) Mảng hậu tố, cây hậu tố
+23) Chặn danh sách liên kết
+24) Cây Huffman
+25) Xô, bàn nhảy
+26) Cây Trie (xây dựng cây tĩnh, xây dựng cây năng động)
+27) Máy tự động AC
+28) Các vấn đề LCA và RMQ
+29) Thuật toán KMP
+30) Thuật toán đồ thị cơ bản
+31) Đường ngang đầu tiên
+32) Truyền qua chiều sâu
+33) Phân loại tô pô
+34) Lưỡi cắt
+35) Thành phần kết nối mạnh mẽ
+36) Thuật toán Tarjan
+37) Thành phần kết nối đôi
+38) Các chi nhánh được kết nối mạnh mẽ và các điểm giảm của chúng
+39) Cắt và cắt các điểm của đồ thị
+40) Mô hình cắt tối thiểu, giao thức lưu lượng mạng
+41) Câu hỏi 2-SAT
+42) Vòng lặp Euler
+43) Vòng lặp Hamilton
+44) Cây bao trùm tối thiểu
+45) Thuật toán Prim
+46) Thuật toán Kruskal (bản đồ thưa thớt)
+47) Thuật toán Sollin
+48) Cây bao trùm nhỏ
+49) Cây bao trùm nhỏ thứ K
+50) Cây bao trùm quy mô tối ưu
+51) Sơ đồ cây tối thiểu
+52) Cây bao trùm giới hạn tối thiểu
+53) Cây bao trùm tối thiểu Euclide
+54) Điểm máy bay của cây bao trùm nhỏ nhất Manhattan
+55) Cây bao trùm tối thiểu
+56) Con đường ngắn nhất
+57) Đường dẫn ngắn nhất tới đồ thị theo chu kỳ có hướng -> sắp xếp theo cấu trúc liên kết
+58) Đường dẫn ngắn nhất cho đồ thị có trọng số không âm -> Thuật toán Dijkstra (có thể sử dụng tối ưu hóa nhị phân)
+59) Đường đi ngắn nhất với đồ thị có trọng số âm-> Thuật toán Bellmanford
+60) Đường đi ngắn nhất với đồ thị có trọng số âm-> Thuật toán Spfa
+(Hiệu quả của SPFA trong các đồ thị âm có trọng số dày không cao bằng Bellman-Ford)
+61) Toàn bộ nguồn ngắn nhất thuật toán Floyd Floyd
+62) Toàn bộ nguồn ngắn nhất thuật toán Johnson
+63) Con đường ngắn
+64) Con đường ngắn thứ K
+65) Hệ thống ràng buộc vi sai
+66) Đường dẫn ngắn nhất cho các cặp điểm mặt phẳng (tối ưu hóa)
+67) Đường gấp đôi giới hạn tiêu chuẩn
+68) Lưu lượng tối đa
+69) Đường mở rộng-> Thuật toán Ford-Fulkerson
+70) Dòng chảy trước đẩy
+71) Thuật toán Dinic
+72) Lưu lượng tối đa với giới hạn trên và dưới
+73) Nút mạng hạn chế
+74) Cắt tối thiểu đồ thị vô hướng-> Thuật toán Stoer-Wagner
+75) Cạnh của đồ thị có hướng và đồ thị vô hướng không giao nhau với đường dẫn
+76) Thuật toán xếp chồng Ford-Fulkerson
+77) Lưu lượng tối đa chi phí tối đa với chi phí âm
+78) Trận đấu
+79) Thuật toán Hungary
+80) Bảo hiểm điểm tối thiểu
+81) Bảo hiểm đường dẫn tối thiểu
+82) Vấn đề thiết lập độc lập tối đa
+83) Đồ thị lưỡng cực hoàn toàn phù hợp với thuật toán Kuhn-Munkras
+84) Kết hợp nhị phân không trọng số: thuật toán Hungary
+85) Kết hợp nhị phân có trọng số: Thuật toán KM
+86) Kết hợp cardinality tối đa cho đồ thị chung
+87) Vấn đề khớp trọng số đồ thị tổng quát
+88) Phân loại tô pô
+89) Sơ đồ hợp âm
+90) Vấn đề hôn nhân ổn định
+91) Tìm kiếm rộng rãi để tối ưu hóa nhà nước
+92) Sử dụng số M-ary để lưu trữ trạng thái
+93) Chuyển đổi thành chuỗi và sử dụng bảng băm để phán đoán
+94) Trạng thái lưu trữ nén bitwise
+95) Tìm kiếm rộng hai chiều
+96) Thuật toán A *
+97) Tối ưu hóa tìm kiếm sâu
+98) Hoạt động bit
+99) Cắt tỉa
+100) Càng ít tham số chức năng càng tốt
+101) Số lượng lớp không quá lớn
+102) Tìm kiếm hai chiều hoặc tìm kiếm xoay vòng
+103) Thuật toán IDA *
+104) Tìm kiếm bộ nhớ
+105) Lý thuyết bất đẳng thức tứ giác
+106) Hồ sơ trạng thái không đầy đủ
+107) Ếch qua sông
+108) Sử dụng khoảng thời gian dp
+109) Vấn đề ba lô
+110) Ba lô 0-1, vấn đề kinh điển
+111) Ba lô không giới hạn, vấn đề kinh điển
+112) Đánh giá vấn đề ba lô
+113) Vấn đề ba lô với liên kết
+114) + -1 vấn đề về ba lô
+115) Ba lô đôi cho giá trị tối ưu
+116) Xây dựng bài toán tam giác
+117) Vấn đề ba lô với giới hạn trên và dưới (012 ba lô)
+118) Vấn đề lập trình động tuyến tính
+119) Xây dựng vấn đề trò chơi khối
+120) Đấu tay đôi (câu hỏi quyết định)
+121) Bài toán đa giác lớn nhất của đường tròn
+122) Đếm số lượng từ
+123) Phân khúc bàn cờ
+124) Vấn đề lịch trình
+125) Bài toán gần đúng tối thiểu (tỷ lệ của hai số gần nhất với số / tổng của hai số bằng một số nhất định, v.v.)
+126) Trò chơi loại bỏ khối (một khoảng nhất định có thể được loại bỏ liên tục để có lợi ích tối đa)
+127) Vấn đề phân bổ nguồn lực
+128) Vấn đề tam giác số
+129) Bản in đẹp
+130) Vấn đề bưu điện và câu trả lời mang tính xây dựng
+131) Vấn đề khối xây dựng cao nhất
+132) Hai liên tiếp và lớn nhất
+133) 2 bài toán tổng điện
+134) Tiểu phần M lớn nhất của N số và
+135) Vấn đề số lượng tối đa chéo
+136) Dp của vấn đề xác định (như xác định tính phân chia, xác định khả năng tiếp cận, v.v.)
+137) Dp của vấn đề modulo K
+138) Bài toán modulo K đặc biệt, tìm số K mô đun (tối thiểu) tối đa
+139) Chuyển đổi vấn đề số
+140) Lập trình động tối ưu hóa đơn điệu
+141) Vấn đề 1-SUM
+142) Vấn đề 2-SUM
+143) Vấn đề phân vùng trình tự (tối ưu hóa hàng đợi đơn điệu)
+144) Vấn đề chia tách (chia đa giác / hợp nhất đá / tách vòng / tối đa sản phẩm)
+145) Bài toán tam giác của đa giác lồi
+146) Vấn đề lớn nhất của sản phẩm
+147) Trò chơi đa giác (toán tử trên cạnh của đa giác, giá trị trọng lượng đỉnh)
+148) Kết hợp đá (tối ưu hóa khác nhau N ^ 3 / N ^ 2 / NLogN)
+149) Kế hoạch năng động tham lam
+150) Vấn đề tải tối ưu
+151) Vấn đề một phần ba lô
+152) Vấn đề thuyền
+153) Chiến lược tham lam
+154) Vấn đề lập kế hoạch hai máy Thuật toán Johnson
+155) Nhà nước dp
+156) Vấn đề bắn súng cao bồi (lớp trò chơi)
+157) Nhà nước của con đường Hamilton dp
+158) Bài toán cân bằng hai điểm
+159) Biểu đồ hai phần gần nhất của đồ thị có hướng
+160) Kiểu cây dp
+161) Sự cố máy chủ hoàn hảo (3 trạng thái trên mỗi nút)
+162) Vấn đề cung điện phòng thủ Xiaopang
+163) Sự cố sạc mạng
+164) Vấn đề chuyển vùng cây
+165) Trò chơi trên cây
+166) Vấn đề thiết lập độc lập lớn nhất của cây
+167) Vấn đề cân bằng tối đa của cây
+168) Xây dựng vòng nhỏ nhất của cây
+169) Định lý còn lại của Trung Quốc
+170) Hàm Euler
+171) Định lý Euclide
+172) Phương pháp phân chia và phân chia của Euclid cho GCD (ước số chung lớn nhất)
+173) Euclid mở rộng
+174) Phân tách số lượng lớn và xác định số nguyên tố
+175) Phương trình Pell
+176) Định lý đồng dư
+177) Kiểm tra chính
+178) Trong vòng 10 triệu: phương pháp sàng lọc
+179) 10 triệu trở lên: Phương pháp kiểm tra Miller
+180) Ngay cả xấp xỉ phân số
+181) Hệ số hóa
+182) Trình tạo nhóm vòng
+183) Số nguyên tố và vấn đề chia hết
+184) Bit nhị phân.
+185) Hoạt động chế độ đồng dư
+186) Sắp xếp và kết hợp
+187) Nguyên tắc khoan dung
+188) Quan hệ đệ quy và hàm tạo
+189) Polya đếm
+190) Công thức đếm Polya
+191) Định lý Burnside
+192) Giải pháp kiến tạo của N Queen
+193) Xây dựng hình vuông ma thuật
+194) Cấu trúc của vòng tròn hamilton thỏa mãn một số điều kiện nhất định
+195) Số Catalan
+196) Số khuấy
+197) Số Fibonacci
+198) Số hài
+199) Ngay cả điểm số
+200) MoBius đảo ngược
+201) Lý thuyết trật tự từng phần
+202) Nguyên tắc cộng và nguyên tắc nhân
+203) Công thức cơ bản
+204) Băng qua
+205) Nhân điểm
+206) Diện tích, chu vi và công thức thể tích của các hình dạng phổ biến
+207) Phối hợp phân biệt
+208) Đoạn đường
+209) Xác định xem hai đoạn đường (đường thẳng, đoạn thẳng) có giao nhau không
+210) Tìm giao điểm của hai đoạn đường
+211) Đa giác
+212) Xác định đa giác lồi, các đỉnh được cho theo chiều kim đồng hồ hoặc ngược chiều kim đồng hồ, (không) cho phép các cạnh liền kề được cộng tuyến
+213) Phán Xét đa giác điểm cạnh hoặc đỉnh được đưa ra trong chiều kim đồng hồ hoặc ngược chiều kim đồng đa giác lồi
+214) Điểm phán đoán nằm trong đa giác lồi, đỉnh được cho theo chiều kim đồng hồ hoặc ngược chiều kim đồng hồ và trả về 0 ở phía đa giác.
+215) Các điểm phán đoán nằm trong các đa giác tùy ý và các đỉnh được đưa ra theo chiều kim đồng hồ hoặc ngược chiều kim đồng hồ
+216) Đoạn đường nằm trong bất kỳ đa giác nào, đỉnh được cho theo chiều kim đồng hồ hoặc ngược chiều kim đồng hồ và giao với ranh giới để trả về 1
+217) Trọng tâm đa giác
+218) Cắt đa giác (giao tuyến nửa mặt phẳng)
+219) Thuật toán quét dòng
+220) Nhân đa giác
+221) Tam giác
+222) Nội tâm
+223) Bên ngoài
+224) Trọng tâm
+225) Trái tim
+226) Điểm Fermat
+227) Vòng
+228) Đánh giá giao điểm của đường thẳng và đường tròn, bao gồm cả tiếp tuyến
+229) Đoạn đường cắt ngang đường tròn, bao gồm điểm cuối và tiếp tuyến
+230) Vòng tròn và đường tròn giao nhau, bao gồm cả tiếp tuyến
+231) Tính toán một điểm gần nhất trên đường tròn đến điểm p, như trung tâm trùng với p, p trả về bản thân
+232) Tính giao điểm của đường thẳng và đường tròn để đảm bảo đường thẳng cắt đường tròn
+233) Tính toán các giao điểm của đường dây và vòng tròn có sẵn trên điểm dù sự phán xét của phân khúc này sau khi chức năng này
+234) Tính giao điểm của đường tròn và đường tròn để đảm bảo rằng đường tròn có điểm giao nhau với đường tròn và tâm của đường tròn không trùng nhau
+235) Tính tiếp tuyến chung bên trong và bên ngoài của hai đường tròn
+236) Tính đoạn đường thẳng đến điểm tiếp tuyến của đường tròn
+237) Điểm đặt phạm vi bảo hiểm vòng tròn tối thiểu
+238) Chế độ xem có thể xem
+239) Đối đầu
+240) Vấn đề kinh điển
+241) Thân máy bay lồi
+242) Thân tàu lồi ba chiều
+243) Sơ đồ chia Delaunay / Voronoi
+244) Đột biến
+245) Dichotomy giải quyết kiến thức về các chức năng đơn điệu
+246) Tính toán gia tốc ma trận
+247) Phương pháp lặp
+248) Trichotomy
+249) Giải phương trình tuyến tính
+250) Phân hủy LUP
+251) Loại bỏ Gaussian
+252) Giải phương trình tuyến tính
+253) Tính tích phân xác định
+254) Rễ đa thức
+255) Phương trình tuần hoàn
+256) Lập trình tuyến tính
+257) Biến đổi Fourier nhanh
+258) Thuật toán ngẫu nhiên
+259) Lập kế hoạch điểm 0/1
+260) Giải giá trị cực trị của một đỉnh đơn (thung lũng đơn) bằng phương pháp thứ ba
+261) Lặp lại gần đúng
+262) Phương pháp ma trận
+263) Quá trình cực kỳ nhỏ
+264) Vấn đề
