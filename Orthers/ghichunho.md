@@ -83,10 +83,11 @@ Tham Khảo Chính:
 	# Kinh Điển
 	+ Giáo Trình Thuật Toán - Introduction to Algorithm (Cái Này Anh/ Việt đều được) # Master of Kinh Điển!!!
 	+ Algorithms_ Part I, 4th Edition (1) (2) # Tương Tự cuốn trên
-	# 3 cuốn Design này có những kĩ thuật hay, và nội dung kĩ
+	# 4 cuốn Design này có những kĩ thuật hay, và nội dung kĩ
 	+ Anany Levitin - Introduction to The Design and Analysis of Algorithms (2nd ed) 
 	+ ALGORITHMS DESIGN TECHNIQUES AND   ANALYSIS 
 	+ Algorithms- Design and Analysis 
+	+ Algorithms Design - JOG KLEINBERG & ÉVA TARDOS 
 	+ Competitive Programming # Cái này form của CP
 	# Bí Kíp Kĩ Thuật của những người thi
 	+  KC-BOOK I
@@ -106,7 +107,7 @@ Giai Đoạn Học #Cái này recommend thôi nha
 Học 3 cuốn đầu (Phải Đọc) học song song kết hợp xem 2 cuốn đầu (Tham Khảo Chính),
 thỉnh thoảng ngồi đọc 4 cuốn "Bí Kíp" và Cẩm Nang Thuật Toán để biết thêm nhiều kĩ thuật hay, 
 Xem Sơ qua tất cả cuốn còn lại.
-Sau một thời gian đọc kĩ 3 cuốn Design, 
+Sau một thời gian đọc kĩ 4 cuốn Design, 
 rồi dần ôn hết mấy cuốn còn lại cho đến khi hoàn thành chỉ tiêu (nhớ cứ 1, 2 tuần tổng ôn lại kiến thức nha)
 ```
 
