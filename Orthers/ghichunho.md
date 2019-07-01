@@ -2,7 +2,7 @@
 DatLuu 28-06-2019
 
 ## Tài Liệu
-* **Ebook**: [One Drive](https://onedrive.live.com/?id=9B563DB8D9DBB19C%21235&cid=9B563DB8D9DBB19C)
+* **Ebook**: [One Drive](https://1drv.ms/u/s!Apyx29m4PVabgWv-vYCUUIcOixmG?e=Wt8ctA)
 ( Đăng Nhập Tài Khoản OneDrive rồi xin quyền truy cập để mình accept nhá :smile: ).
 * **Web**:
 	* **Tài Liệu**:
