@@ -2,7 +2,7 @@
 DatLuu 28-06-2019
 
 ## Tài Liệu
-* **Ebook**: https://onedrive.live.com/?id=9B563DB8D9DBB19C%21235&cid=9B563DB8D9DBB19C
+* **Ebook**: [One Drive](https://onedrive.live.com/?id=9B563DB8D9DBB19C%21235&cid=9B563DB8D9DBB19C)
 ( Đăng Nhập Tài Khoản OneDrive rồi xin quyền truy cập để mình accept nhá :smile: ).
 * **Web**:
 	* **Tài Liệu**:
@@ -31,6 +31,7 @@ DatLuu 28-06-2019
 			* [LintCode](https://www.lintcode.com/) (Trang này của Trung Quốc)
 			* [LeetCode](https://leetcode.com/) 
 			* [Baekjoon](https://www.acmicpc.net/) (Trang này của Hàn)
+			* [Project Euler](https://projecteuler.net/about) (Muốn ôn Math thì vào trang này)
 	* **Solution** (Các solution này gần như đầy đủ)
 		* [UVA](http://codealltheproblems.blogspot.com/)
 		* [LintCode](https://github.com/kamyu104/LintCode)
