@@ -1,5 +1,4 @@
-# Front End
-
+# Front End ( + Backend )
 *Dấu * Nghĩa là file nén (không xem trực tiếp đc)*
 
 ## Khóa Học
@@ -56,7 +55,7 @@
 
 // *Nhiêu đây đủ học* 
 
-// *Tổng Tiền nếu mua hêt mấy khóa trên khoảng mấy trăm triệu nên đồng nghĩa với việc bạn tiết kiệm được vài trăm triệu:))* 
+// *Tổng Tiền nếu mua hêt mấy khóa trên khoảng **mấy trăm triệu** nên đồng nghĩa với việc bạn tiết kiệm được **vài trăm triệu**:))* 
 
 // *Cố mà học* 
 
