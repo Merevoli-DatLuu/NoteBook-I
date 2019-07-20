@@ -25,14 +25,38 @@
 * [* Xây dựng trang web chuyên nghiệp trong 3 ngày không cần code (319,200đ - Edumall)](https://drive.google.com/open?id=1jnZmzfTDEMKziBbi80hywhaBh8e55c0A)
 * [* Thiết kế Website siêu tốc trong 30 phút bằng các công cụ (399,200 - Edumall)](https://drive.google.com/open?id=1107_sqmqlJ8Y7CFzj5jkt65i8v1uMzJp)
 * [* Trọn bộ kiến thức NodeJS (499,500đ - Edumall)](https://drive.google.com/open?id=1VU1ib1Jp1KOwGwB2ZD81zZLOmFb80iP6)
-* [Front-End: Cốt lõi thiết kế website với HTML, CSS, JavaScript , Jquery, Responsive, Bootstrap, dàn layout từ Photoshop (999,000đ - Myclass)](https://drive.google.com/open?id=1IpouAIgk8PeREa1zf2V6OlG2cekM4FGE)
-* [Lập trình ASP.NET MVC5 toàn tập qua dự án Web bán hàng (599,000đ - Myclass)](https://drive.google.com/open?id=1CZKAZBDl8iTl1Obp62R30KnWpx-SYfJd)
-* [TypeScript - ES6 (Javascript) qua dự án Shopping Cart - Nền tảng Node.js và AngularJs 2 (799,000đ - Myclass)](https://drive.google.com/open?id=1kYHky1e8f9nkhBX4p1sHzTijz3XyAgH_)
-* [FreeTottorial.us](https://drive.google.com/drive/folders/1JhG2ECNKPwVXRMRHWXL_L73Uvpdss79-)
-* [CSS TeamTreehouse](https://drive.google.com/open?id=1UekV8TtXVqTjmWRwkl-fTVZPl-tYHoXH)
-* [Javasript TeamTreehouse](https://drive.google.com/open?id=17mVx33OsT3L1ucA3Wuy0EMeJkr1TRC32)
-* [PHP TeamTreehouse](https://drive.google.com/open?id=14p4tR0qpXw9ECJ9lMS4yjRvswUzOcSOi)
+* [* Front-End: Cốt lõi thiết kế website với HTML, CSS, JavaScript , Jquery, Responsive, Bootstrap, dàn layout từ Photoshop (999,000đ - Myclass)](https://drive.google.com/open?id=1IpouAIgk8PeREa1zf2V6OlG2cekM4FGE)
+* [* Lập trình ASP.NET MVC5 toàn tập qua dự án Web bán hàng (599,000đ - Myclass)](https://drive.google.com/open?id=1CZKAZBDl8iTl1Obp62R30KnWpx-SYfJd)
+* [* TypeScript - ES6 (Javascript) qua dự án Shopping Cart - Nền tảng Node.js và AngularJs 2 (799,000đ - Myclass)](https://drive.google.com/open?id=1kYHky1e8f9nkhBX4p1sHzTijz3XyAgH_)
+* [* FreeTottorial.us](https://drive.google.com/drive/folders/1JhG2ECNKPwVXRMRHWXL_L73Uvpdss79-)
+* [* CSS TeamTreehouse](https://drive.google.com/open?id=1UekV8TtXVqTjmWRwkl-fTVZPl-tYHoXH)
+* [* Javasript TeamTreehouse](https://drive.google.com/open?id=17mVx33OsT3L1ucA3Wuy0EMeJkr1TRC32)
+* [* PHP TeamTreehouse](https://drive.google.com/open?id=14p4tR0qpXw9ECJ9lMS4yjRvswUzOcSOi)
 * // Mệt Quá!!! Tự lọc cái này nha [Lynda (437 course)](https://drive.google.com/drive/folders/1rUmPI-BCPWQKw16hCCR7ZWjaR8d8YNE2)
 * // Cái Này nữa [:))](https://drive.google.com/drive/folders/1rSV_qI2xSyEkUIaPrniCH0VMvGdB2pGU)
 * [The Complete Web Developer in 2018: Zero to Mastery (199,99$ - Udemy)](https://drive.google.com/drive/folders/1BKXPaYEoz50oy2A1CbFfysfDM9d4NgSe)
 * [web-developer-course (FreeTutorials.us)](https://drive.google.com/drive/folders/19iHd9p3TqjZwm4HIsW9yQoQVCsEIFH8R)
+* [The Web Developer Bootcamp (199,99$ - Udemy -- BEST SELLER)](https://drive.google.com/drive/folders/1ndgEWn44SxbgRJvCG5hcGuxnJmdjt-9x)
+* [The FullStack Web Development (Udemy)](https://drive.google.com/drive/folders/1cwZSEwp4xoklFOOmi_2p5colT1mArfnq)
+* [PHP:)) // Tự Lọc nha](https://drive.google.com/drive/folders/1QXYAkC3Za3kJGZhVmeOJVN8TnQHZMbPF)
+
+
+## Tài Liệu
+* // Tự lọc nha:)) [APTECH EDUCATION](https://drive.google.com/drive/folders/0B-wBd3to9uEffmpWU1I0a0ZSSEVLbHBtSy15YVlESjh2NVAxcjdXdTNXVGwzZG5yUXZ0Smc)
+* [CSS - 1](https://drive.google.com/drive/folders/0B3mduBEtxFHoMWhfS3I5aUNYalE)
+
+## WEBSITE
+
+* [w3schools](https://www.w3schools.com/)
+* [vietjack](https://vietjack.com/)
+* [codecademy](https://www.codecademy.com/catalog/subject/all)
+
+## NOTE
+// *Còn nhiều vcl ra:))* 
+
+// *Nhiêu đây đủ học* 
+
+// *Tổng Tiền nếu mua hêt mấy khóa trên khoảng mấy trăm triệu nên đồng nghĩa với việc bạn tiết kiệm được vài trăm triệu:))* 
+
+// *Cố mà học* 
+
